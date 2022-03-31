@@ -6,6 +6,8 @@ This repository was created to ensure that the datasets used in my projects rema
 
 # Datasets
 ## Binary Calssification Datasets
+- Telco Customer Churn (`telco-customer-churn.csv`) ([source](https://www.kaggle.com/datasets/blastchar/telco-customer-churn))
+- 
 
 ## Multiclass Classification Datasets
 
