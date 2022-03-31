@@ -3,6 +3,7 @@ This repository contains a copy of machine learning datasets used in my personal
 <br><br>
 This repository was created to ensure that the datasets used in my projects remain available and are not dependent upon unreliable third parties.
 <br><br>
+The dataset description can be found on the `source` link or `.name` file if available.
 
 # Datasets
 ## Binary Calssification Datasets
@@ -14,3 +15,4 @@ This repository was created to ensure that the datasets used in my projects rema
 - Iris | `iris.csv` | [source](https://archive.ics.uci.edu/ml/datasets/Iris)
 
 ## Regression Datasets
+- Boston House Price | `boston-house.csv` | [source](http://lib.stat.cmu.edu/datasets/boston)
