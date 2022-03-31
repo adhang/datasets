@@ -10,5 +10,6 @@ This repository was created to ensure that the datasets used in my projects rema
 - 
 
 ## Multiclass Classification Datasets
+- Iris (`iris.csv`)([source](https://archive.ics.uci.edu/ml/datasets/Iris))
 
 ## Regression Datasets
