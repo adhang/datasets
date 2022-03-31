@@ -10,7 +10,7 @@ The dataset description can be found on the `source` link or `.name` file if ava
 - Telco Customer Churn | `telco-customer-churn.csv` | [source](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Pima Indians Pima Indians Diabetes | `diabetes.csv` | [source](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - Stroke Prediction Dataset | `healthcare-dataset-stroke-data.csv` | [source](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
-- Credit Card Attrition | `credit-card-attrition.csv` | [source_1](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers) [source_2](https://leaps.analyttica.com/sample_cases/9546)
+- Credit Card Attrition | `credit-card-attrition.csv` | [source_1](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers) | [source_2](https://leaps.analyttica.com/sample_cases/9546)
 
 ## Multiclass Classification Datasets
 - Iris | `iris.csv` | [source](https://archive.ics.uci.edu/ml/datasets/Iris)
