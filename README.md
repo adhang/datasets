@@ -18,7 +18,7 @@ The dataset description can be found on the `source` link or `.name` file if ava
 - Iris | `iris.csv` | [source](https://archive.ics.uci.edu/ml/datasets/Iris)
 
 ## Regression Datasets
-- Boston House Price | `boston-house.csv` | [source](http://lib.stat.cmu.edu/datasets/boston
+- Boston House Price | `boston-house.csv` | [source](http://lib.stat.cmu.edu/datasets/boston)
 
 ## Misc
 - Pollutant Standards Index of Jogja in 2020 | `pollutant-standards-index` | [source](https://lingkunganhidup.jogjakota.go.id/page/index/basis-data-lingkungan-hidup)
