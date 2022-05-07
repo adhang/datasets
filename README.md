@@ -21,4 +21,4 @@ The dataset description can be found on the `source` link or `.name` file if ava
 - Boston House Price | `boston-house.csv` | [source](http://lib.stat.cmu.edu/datasets/boston
 
 ## Misc
-- Pollutant Standards Index of Jogja in 2020 | `pollutant-standards-index-jogja-2020.csv` | [source](https://lingkunganhidup.jogjakota.go.id/page/index/basis-data-lingkungan-hidup)
+- Pollutant Standards Index of Jogja in 2020 | `pollutant-standards-index` | [source](https://lingkunganhidup.jogjakota.go.id/page/index/basis-data-lingkungan-hidup)
