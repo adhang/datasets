@@ -3,7 +3,7 @@ This repository contains a copy of machine learning datasets used in my personal
 <br><br>
 This repository was created to ensure that the datasets used in my projects remain available and are not dependent upon unreliable third parties.
 <br><br>
-The dataset description can be found on the `source` link or `.name` file if available.
+The dataset description can be found on the `source` link or `.names` file if available.
 
 # Datasets
 ## Binary Calssification Datasets
@@ -11,8 +11,8 @@ The dataset description can be found on the `source` link or `.name` file if ava
 - Pima Indians Diabetes | `diabetes.csv` | [source](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 - Stroke Prediction Dataset | `healthcare-dataset-stroke-data.csv` | [source](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 - Credit Card Attrition | `credit-card-attrition.csv` | [source_1](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers) | [source_2](https://leaps.analyttica.com/sample_cases/9546)
-- Titanic | `titanic-train.csv` | [source](https://www.kaggle.com/competitions/titanic/)
-- Spaceship Titanic | `spaceship-titanic-train.csv` | [source](https://www.kaggle.com/competitions/spaceship-titanic)
+- Titanic | `titanic-[train|test].csv` | [source](https://www.kaggle.com/competitions/titanic/)
+- Spaceship Titanic | `spaceship-titanic-[train|test].csv` | [source](https://www.kaggle.com/competitions/spaceship-titanic)
 
 ## Multiclass Classification Datasets
 - Iris | `iris.csv` | [source](https://archive.ics.uci.edu/ml/datasets/Iris)
@@ -20,5 +20,6 @@ The dataset description can be found on the `source` link or `.name` file if ava
 ## Regression Datasets
 - Boston House Price | `boston-house.csv` | [source](http://lib.stat.cmu.edu/datasets/boston)
 
-## Misc
+## Time Series
 - Pollutant Standards Index of Jogja in 2020 | `pollutant-standards-index` | [source](https://lingkunganhidup.jogjakota.go.id/page/index/basis-data-lingkungan-hidup)
+- Google Stock Prices | `google-stock-price-[train|test].csv` | [source](https://www.kaggle.com/datasets/medharawat/google-stock-price)
